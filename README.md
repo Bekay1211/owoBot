@@ -2,7 +2,7 @@
 
 ## this is a telegram bot which owoifies messages
 
-just create a bot with BotFather and paste your API key into the TOKEN file
+- just create a bot with BotFather and paste your API key into the TOKEN file
 
 - to use the bot just reply to a message with /owo
 
