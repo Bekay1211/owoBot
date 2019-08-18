@@ -1,16 +1,17 @@
-#Hewwo Weadew owo
+# Hewwo Weadew owo
 
-##this is a telegram bot which owoifies messages
+## this is a telegram bot which owoifies messages
 
 just create a bot with BotFather and paste your API key into the TOKEN file
--to use the bot just reply to a message with /owo
 
-###future plans and other stuff I probably wont do because I'm too lazy:
+- to use the bot just reply to a message with /owo
 
--add an owo gif thingy
+### future plans and other stuff I probably wont do because I'm too lazy:
 
--do something to when /owo doesnt reply to a message
+- add an owo gif thingy
 
--loose weight/do sports
+- do something to when /owo doesnt reply to a message
+
+- loose weight/do sports
 
 
