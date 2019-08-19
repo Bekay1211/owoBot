@@ -1,4 +1,7 @@
-# Hewwo Weadew owo
+# Hewwo Weadew owo 
+
+![alt text](https://github.com/Bekay1211/owoBot/blob/master/owodis.jpg)
+[got this image from de internetz](https://aminoapps.com/c/meme/page/blog/happu-valentines-day-owo-uwu-no-homo/P3jd_l7fmuwkQ8rWg5al0lojpRP2WX6k81)
 
 ## this is a telegram bot which owoifies messages
 
