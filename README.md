@@ -5,6 +5,10 @@
 
 ## this is a telegram bot which owoifies messages
 
+you may need to run a 
+
+`$ pip install python-telegram-bot --upgrade`
+
 - just create a bot with BotFather and paste your API key into the TOKEN file
 
 - to use the bot just reply to a message with /owo
