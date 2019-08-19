@@ -7,7 +7,7 @@
 
 you may need to run a 
 
-`$ pip install python-telegram-bot --upgrade`
+`$ pip install -r requirements.txt`
 
 - just create a bot with BotFather and paste your API key into the TOKEN file
 
