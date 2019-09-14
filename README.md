@@ -5,13 +5,37 @@
 
 ## this is a telegram bot which owoifies messages
 
-after downloading go into the folder and do a 
+###installing the way it should work:
+
+
+`$ git clone https://github.com/Bekay1211/owoBot`
+
+`$ cd owoBot`
 
 `$ pip install -r requirements.txt`
 
 then just paste the token you got from BotFather into the TOKEN file and type
 
 `$ python owobot.py`
+
+###if this for some reason just doesnt work:
+
+For some reason my pi refuses to use python3 and i just couldt get that to work.
+Luckyli there is litterally only one thing you need to have for this to work which is python telegram bot git
+
+`$ sudo git clone https://github.com/python-telegram-bot/python-telegram-bot --recursive`
+
+`$ cd python-telegram-bot`
+
+`$ sudo python3 setup.py install`
+
+`$ cd owoBot`
+
+then just paste the token you got from BotFather into the TOKEN file and type
+
+`$ python owobot.py`
+
+##how to use the bot:
 
 - to use the bot just reply to a message with /owo
 
