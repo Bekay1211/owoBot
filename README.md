@@ -14,7 +14,9 @@
 
 `$ pip install -r requirements.txt`
 
-then just paste the token you got from BotFather into the TOKEN file and type
+`$ sudo nano TOKEN `
+
+then just paste the token you got from BotFather into the TOKEN file, exit with ctrl+x then y then enter and type
 
 `$ python owobot.py`
 
@@ -31,9 +33,11 @@ Luckyli there is litterally only one thing you need to have for this to work whi
 
 `$ cd owoBot`
 
-then just paste the token you got from BotFather into the TOKEN file and type
+`$ sudo nano TOKEN`
 
-`$ python owobot.py`
+then just paste the token you got from BotFather into the TOKEN file, exit with ctrl+x then y then enter and type
+
+`$ sudo python3 owobot.py`
 
 ## how to use the bot:
 
